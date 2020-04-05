@@ -1,4 +1,4 @@
-# HTB_Cheat_Sheets
+# HTB Cheat Sheets
 Cheat sheets for **Hack(ing) The Box(es)**
 
 Please refer to the [wiki](https://github.com/lorenzoinvidia/HTB-CheatSheets/wiki) page
