@@ -35,6 +35,7 @@ Repository maintained with my collegues [pspgt](https://github.com/pspgt) and [H
     * [PHP Type Juggling](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/Web#PHP-Type-Juggling)
     * [Padding Oracle Attack](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/Web#Padding-Oracle-Attack)
     * [Umbraco Auth RCE](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/Web#Umbraco-Auth-RCE)
+    * [Nostromo RCE](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/Web#Nostromo-RCE)
     * [JWT Forge](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/Web#JWT-Forge)
     * [SQLi](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/SQLi)
     * [NonSQLi](https://github.com/lorenzoinvidia/HackTheBox-CheatSheets/wiki/Web#NonSQLi)   
